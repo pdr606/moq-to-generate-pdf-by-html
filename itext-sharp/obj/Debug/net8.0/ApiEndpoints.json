@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "itext_sharp.Controllers.PdfController",
+    "Method": "DowloadPDF",
+    "RelativePath": "Pdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

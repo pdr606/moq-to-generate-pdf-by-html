@@ -1,0 +1,6 @@
+@itext_sharp_HostAddress = http://localhost:5198
+
+GET {{itext_sharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
